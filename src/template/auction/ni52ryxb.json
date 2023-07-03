@@ -1,0 +1,21 @@
+{
+  "route_groups": [
+    { "title": ["locales.china"], "route_sub_groups": ["5johwqp1", "urvt8voz"] , "routes": [], "language": "zh" },
+    { "title": ["locales.japan"], "route_sub_groups": ["25g7u3ej"], "routes": [], "language": "ja" },
+    { "title": ["locales.city_hong_kong"], "route_sub_groups": ["0j3mo9co"], "routes": [], "language": "zh" },
+    { "title": ["locales.city_singapore"], "route_sub_groups": ["phnq7rhj"], "routes": [], "language": "en" },
+    { "title": ["locales.france"], "route_sub_groups": ["sj2mp3zl"], "routes": [], "language": "fr" },
+    { "title": ["locales.belgium"], "route_sub_groups": ["4rzypoh1"], "routes": [], "language": "fr" },
+    { "title": ["locales.usa"], "route_sub_groups": ["kjiee2sk"], "routes": [], "language": "en" }
+  ],
+  "route_sub_groups": {
+    "5johwqp1": { "title": ["locales.title_HUAYICANG"], "routes": ["c0rf9xd8", "xktoguk3", "ndnp335t"], "language": "zh" },
+    "urvt8voz": { "title": ["locales.title_CHCOIN"], "routes": ["e052pics"], "language": "zh" },
+    "25g7u3ej": { "title": ["locales.title_AW"], "routes": ["vj5h0nj3"], "language": "ja" },
+    "0j3mo9co": { "title": ["locales.title_BMTW"], "routes": ["wmvtwh4c", "fzcnr4rt"], "language": "zh" },
+    "phnq7rhj": { "title": ["locales.title_MA"], "routes": ["unbn7yjx"], "language": "en" },
+    "sj2mp3zl": { "title": ["locales.title_MDA"], "routes": ["8qw4ucnq"], "language": "fr" },
+    "4rzypoh1": { "title": ["locales.title_BRU"], "routes": ["72zdjubr"], "language": "fr" },
+    "kjiee2sk": { "title": ["locales.title_SARC"], "routes": ["kbt27b33"], "language": "en" }
+  }
+}

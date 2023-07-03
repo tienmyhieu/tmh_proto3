@@ -1,0 +1,7 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "dr3grppa", "template": "big_bronze/dr3grppa", "type": "list" },
+  { "route": "明命通宝", "active": "1", "descendant": "minh_menh", "entity": "1fwjkgi2", "template": "" },
+  { "route": "绍治通宝", "active": "1", "descendant": "thieu_tri", "entity": "2yqewlhz", "template": "" },
+  { "route": "嗣德通宝", "active": "1", "descendant": "tu_duc", "entity": "3n3shibu", "template": "" },
+  { "route": "类型", "active": "1", "descendant": "type", "entity": "5t3xzycw", "template": "" }
+]

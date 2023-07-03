@@ -1,0 +1,7 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "5nqoi7g9", "template": "minh_menh/5nqoi7g9", "type": "list" },
+  { "route": "Tiền_đồng_lớn", "active": "1", "descendant": "big_bronze", "entity": "prnrp5uj", "template": "minh_menh/prnrp5uj", "type": "list" },
+  { "route": "Tiền_vàng_lớn", "active": "0", "descendant": "big_gold", "entity": "ow309x0c", "template": "", "type": "list" },
+  { "route": "Tiền_bạc_lớn", "active": "0", "descendant": "big_silver", "entity": "l4yrnhdh", "template": "", "type": "list" },
+  { "route": "Tiền_kẽm_lớn", "active": "0", "descendant": "big_zinc", "entity": "qa97dvrl", "template": "", "type": "list" }
+]

@@ -1,0 +1,7 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "trgb85ek", "template": "tu_duc/trgb85ek", "type": "list" },
+  { "route": "Grande_pièce_en_cuivre", "active": "1", "descendant": "big_bronze", "entity": "e1tby2n4", "template": "", "type": "list" },
+  { "route": "Grande_pièce_en_or", "active": "0", "descendant": "big_gold", "entity": "29w21sbi", "template": "", "type": "list" },
+  { "route": "Grande_pièce_en_argent", "active": "0", "descendant": "big_silver", "entity": "ff99ak4w", "template": "", "type": "list" },
+  { "route": "Grande_pièce_en_zinc", "active": "0", "descendant": "big_zinc", "entity": "oaesz27l", "template": "", "type": "list" }
+]

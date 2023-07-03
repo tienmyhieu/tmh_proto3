@@ -1,0 +1,18 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "umd0xr1h", "template": "umd0xr1h", "type": "home" },
+  { "route": "拍賣", "active": "1", "descendant": "auction", "entity": "ni52ryxb", "template": "auction/ni52ryxb", "type": "reference" },
+  { "route": "圖書", "active": "1", "descendant": "book", "entity": "k13x5l9y", "template": "book/k13x5l9y", "type": "reference" },
+  { "route": "采集", "active": "1", "descendant": "collection", "entity": "eed1i4rt", "template": "collection/eed1i4rt", "type": "reference" },
+  { "route": "大铜銭", "active": "1", "descendant": "big_bronze", "entity": "dr3grppa", "template": "big_bronze/dr3grppa", "type": "list" },
+  { "route": "大金銭", "active": "0", "descendant": "big_gold", "entity": "wmnspgi4", "template": "", "type": "list" },
+  { "route": "大銀銭", "active": "0", "descendant": "big_silver", "entity": "jtmub7zq", "template": "", "type": "list" },
+  { "route": "大亜鉛銭", "active": "0", "descendant": "big_zinc", "entity": "qt7h889n", "template": "", "type": "list" },
+  { "route": "下載", "active": "1", "descendant": "download", "entity": "58wbv1xd", "template": "", "type": "list" },
+  { "route": "雜誌", "active": "1", "descendant": "magazine", "entity": "03bzpv5q", "template": "magazine/03bzpv5q", "type": "reference" },
+  { "route": "博物館", "active": "1", "descendant": "museum", "entity": "vhkv5pkw", "template": "museum/vhkv5pkw", "type": "reference" },
+  { "route": "明命通寶", "active": "1", "descendant": "minh_menh", "entity": "5nqoi7g9", "template": "minh_menh/5nqoi7g9", "type": "list" },
+  { "route": "紹治通寶", "active": "1", "descendant": "thieu_tri", "entity": "m8l7dmpj", "template": "thieu_tri/m8l7dmpj", "type": "list" },
+  { "route": "嗣德通寳", "active": "1", "descendant": "tu_duc", "entity": "trgb85ek", "template": "tu_duc/trgb85ek", "type": "list" },
+  { "route": "網絡文章", "active": "0", "descendant": "web_post", "entity": "0iyansdp", "template": "", "type": "list" },
+  { "route": "網站", "active": "0", "descendant": "web_site", "entity": "zhfqnvgk", "template": "", "type": "list" }
+]

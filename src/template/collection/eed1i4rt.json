@@ -1,0 +1,8 @@
+{
+  "route_groups": [
+    { "title": ["locales.viet_nam"], "route_sub_groups": [], "routes": ["dvhlde10", "qk93r9wl"], "language": "vi" },
+    { "title": ["locales.china"], "route_sub_groups": [], "routes": ["h3f4lvs1", "xqpucuzp"], "language": "zh" },
+    { "title": ["locales.japan"], "route_sub_groups": [], "routes": ["7uf22ydb"], "language": "ja" }
+  ],
+  "route_sub_groups": {}
+}

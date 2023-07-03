@@ -1,0 +1,7 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "trgb85ek", "template": "tu_duc/trgb85ek", "type": "list" },
+  { "route": "大铜銭", "active": "1", "descendant": "big_bronze", "entity": "e1tby2n4", "template": "", "type": "list" },
+  { "route": "大金銭", "active": "0", "descendant": "big_gold", "entity": "29w21sbi", "template": "", "type": "list" },
+  { "route": "大銀銭", "active": "0", "descendant": "big_silver", "entity": "ff99ak4w", "template": "", "type": "list" },
+  { "route": "大亜鉛銭", "active": "0", "descendant": "big_zinc", "entity": "oaesz27l", "template": "", "type": "list" }
+]

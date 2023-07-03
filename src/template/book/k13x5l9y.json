@@ -1,0 +1,10 @@
+{
+  "route_groups": [
+    { "title": ["locales.language_vi_vn"], "route_sub_groups": [], "routes": ["oqepsplc", "q0znnp28", "3549bh2x", "0fh1r8jc", "qhzqqrj7", "rxq053y5", "ij7cn3al"], "language": "vi" },
+    { "title": ["locales.language_zh"], "route_sub_groups": [], "routes": ["31uxbgdl", "j9fcdh0j", "vmoqxm5m", "niq2ckyn", "ei2whz8b"], "language": "zh" },
+    { "title": ["locales.language_ja_jp"], "route_sub_groups": [], "routes": ["33eccdm9", "r21y9r6f", "gabpltxp", "c9wajv3w", "1z25zkjb"], "language": "ja" },
+    { "title": ["locales.language_en_gb"], "route_sub_groups": [], "routes": ["25b3yv4o", "kgfoiyou", "x0v7qj2y", "i95annbm", "d5yvbpay", "8hc2cmku"], "language": "en" },
+    { "title": ["locales.language_fr_fr"], "route_sub_groups": [], "routes": ["a8tjsnwh", "2zoqti81", "d04m5ef3", "e398l7jm", "07823703", "7mt04e01", "9hnvv773", "85vs50u3", "wuzrxets", "lq8okn8u", "wc5d80h2", "e8b8esue"], "language": "fr" }
+  ],
+  "route_sub_groups": {}
+}

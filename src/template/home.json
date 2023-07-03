@@ -1,0 +1,4 @@
+{
+  "components": ["languages"],
+  "locales": ["common", "head"]
+}

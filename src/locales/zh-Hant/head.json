@@ -1,0 +1,23 @@
+{
+  "coin": "銭",
+  "belgium": "比利時",
+  "china": "中國",
+  "england": "英國",
+  "france": "法國",
+  "japan": "日本",
+  "language_de_de": "德语",
+  "language_en_gb": "英语",
+  "language_fr_fr": "法语",
+  "language_ja_jp": "日语",
+  "language_vi_vn": "越南语",
+  "language_zh": "中文",
+  "language_zh_cn": "中文 中國",
+  "language_zh_hans": "中文 (簡體)",
+  "language_zh_hant": "中文 (繁體)",
+  "language_zh_hk": "中文 香港",
+  "language_zh_tw": "中文 香港",
+  "td_lcc": "嗣德大铜币",
+  "tt_lcc": "紹治大銅幣",
+  "usa": "美國",
+  "viet_nam": "越南"
+}

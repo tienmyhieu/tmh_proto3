@@ -1,0 +1,23 @@
+{
+  "coin": "Monnaie",
+  "belgium": "Belgique",
+  "china": "Chine",
+  "england": "Angleterre",
+  "france": "France",
+  "japan": "Japon",
+  "language_de_de": "allemand",
+  "language_en_gb": "anglais",
+  "language_fr_fr": "français",
+  "language_ja_jp": "japonais",
+  "language_vi_vn": "vietnamien",
+  "language_zh": "chinois",
+  "language_zh_cn": "chinois (Chine)",
+  "language_zh_hans": "chinois (simplifié)",
+  "language_zh_hant": "chinois (traditionnel)",
+  "language_zh_hk": "chinois (Hong Kong)",
+  "language_zh_tw": "chinois (Taiwan)",
+  "td_lcc": "Tu Duc grande pièce en cuivre",
+  "tt_lcc": "Thieu Tri grande pièce en cuivre",
+  "usa": "États-Unis",
+  "viet_nam": "Việt Nam"
+}

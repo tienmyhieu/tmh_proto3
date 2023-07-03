@@ -1,0 +1,18 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "umd0xr1h", "template": "umd0xr1h", "type": "home" },
+  { "route": "Đấu_giá", "active": "1", "descendant": "auction", "entity": "ni52ryxb", "template": "auction/ni52ryxb", "type": "reference" },
+  { "route": "Sách", "active": "1", "descendant": "book", "entity": "k13x5l9y", "template": "book/k13x5l9y", "type": "reference" },
+  { "route": "Bộ_sưu_tập", "active": "1", "descendant": "collection", "entity": "eed1i4rt", "template": "collection/eed1i4rt", "type": "reference" },
+  { "route": "Tiền_đồng_lớn", "active": "1", "descendant": "big_bronze", "entity": "dr3grppa", "template": "big_bronze/dr3grppa", "type": "list" },
+  { "route": "Tiền_vàng_lớn", "active": "0", "descendant": "big_gold", "entity": "wmnspgi4", "template": "", "type": "list" },
+  { "route": "Tiền_bạc_lớn", "active": "0", "descendant": "big_silver", "entity": "jtmub7zq", "template": "", "type": "list" },
+  { "route": "Tiền_kẽm_lớn", "active": "0", "descendant": "big_zinc", "entity": "qt7h889n", "template": "" , "type": "list"},
+  { "route": "Tải_xuống", "active": "0", "descendant": "download", "entity": "58wbv1xd", "template": "", "type": "list" },
+  { "route": "Tạp_chí", "active": "1", "descendant": "magazine", "entity": "03bzpv5q", "template": "magazine/03bzpv5q", "type": "reference" },
+  { "route": "Bảo_tàng", "active": "1", "descendant": "museum", "entity": "vhkv5pkw", "template": "museum/vhkv5pkw", "type": "reference" },
+  { "route": "Minh_Mệnh_thông_bảo", "active": "1", "descendant": "minh_menh", "entity": "5nqoi7g9", "template": "minh_menh/5nqoi7g9", "type": "list" },
+  { "route": "Thiệu_Trị_thông_bảo", "active": "1", "descendant": "thieu_tri", "entity": "m8l7dmpj", "template": "thieu_tri/m8l7dmpj", "type": "list" },
+  { "route": "Tự_Đức_thông_bảo", "active": "1", "descendant": "tu_duc", "entity": "trgb85ek", "template": "tu_duc/trgb85ek", "type": "list" },
+  { "route": "Bài_viết_trên_web", "active": "0", "descendant": "web_post", "entity": "0iyansdp", "template": "" , "type": "list"},
+  { "route": "Trang_mạng", "active": "0", "descendant": "web_site", "entity": "zhfqnvgk", "template": "", "type": "list" }
+]

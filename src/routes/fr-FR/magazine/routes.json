@@ -1,0 +1,15 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "03bzpv5q", "template": "", "type": "reference" },
+  { "route": "Annam_and_its_Minor_Currency", "active": "1", "descendant": "amc", "entity": "zwy3yoi1", "template": "", "type": "list" },
+  { "route": "Tiền_cổ_thời_Minh_Mệnh", "active": "1", "descendant": "tcmm", "entity": "mqdfyahh", "template": "", "type": "list" },
+  { "route": "Tiền_cổ_thời_Thiệu_Trị", "active": "1", "descendant": "tctt", "entity": "09730pfd", "template": "", "type": "list" },
+  { "route": "Tiền_cổ_thời_Tự_Đức", "active": "1", "descendant": "tctd", "entity": "d0qyjlj1", "template": "", "type": "list" },
+  { "route": "Palastmünzen_des_Kaisers_Minh_Mang", "active": "1", "descendant": "pkmm", "entity": "0cwt9zsu", "template": "", "type": "list" },
+  { "route": "Monnaies_au_Vietnam_dans_ère_Tự_Đức", "active": "1", "descendant": "mvtd", "entity": "37497egm", "template": "", "type": "list" },
+  { "route": "Monnaie_vietnamienne_tradition_việt_culture_han", "active": "1", "descendant": "mvch", "entity": "51dslkj9", "template": "", "type": "list" },
+  { "route": "Grande_monnaie_inconnue_de_Tự_Đức", "active": "1", "descendant": "mitd", "entity": "r57u7huu", "template": "", "type": "list" },
+  { "route": "Confucian_Message_on_Vietnamese_Coins", "active": "1", "descendant": "cmvc", "entity": "z9ga4u4o", "template": "", "type": "list" },
+  { "route": "Tiền_thưởng_đời_vua_Minh_Mạng", "active": "1", "descendant": "ttmm", "entity": "wtgmjvez", "template": "", "type": "list" },
+  { "route": "Tiền_thưởng_đời_vua_Thiệu_Trị", "active": "1", "descendant": "tttt", "entity": "jdrh2u71", "template": "", "type": "list" },
+  { "route": "Tiền_thưởng_đời_vua_Tự_Đức", "active": "1", "descendant": "tttd", "entity": "9zom8amv", "template": "", "type": "list" }
+]

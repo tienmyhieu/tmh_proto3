@@ -1,0 +1,7 @@
+{
+  "emperor": "locales.tu_duc",
+  "emperor_inscription": "inscriptions.8q1x00vs",
+  "emperor_coins": {
+    "29weqgo8": { "innerHtml": ["locales.tbaddbab"], "inscription": "inscriptions.zjertm4r", "title":  ["locales.tu_duc", "locales.tbaddbab"]}
+  }
+}

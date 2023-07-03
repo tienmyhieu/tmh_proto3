@@ -1,0 +1,14 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "ni52ryxb", "template": "auction/ni52ryxb", "type": "reference" },
+  { "route": "Hong_Kong_Coin_Auction_55", "active": "1", "descendant": "hkca", "entity": "wmvtwh4c", "template": "", "type": "list" },
+  { "route": "Hong_Kong_Coin_Auction_56", "active": "1", "descendant": "hkca", "entity": "fzcnr4rt", "template": "", "type": "list" },
+  { "route": "Vente_aux_Enchères_14", "active": "1", "descendant": "mda", "entity": "8qw4ucnq", "template": "", "type": "list" },
+  { "route": "The_Bru_Sale_10", "active": "1", "descendant": "bru", "entity": "72zdjubr", "template": "", "type": "list" },
+  { "route": "华夏古泉_2011_năm_nay", "active": "1", "descendant": "huay", "entity": "c0rf9xd8", "template": "", "type": "list" },
+  { "route": "华夏古泉_2017_12_04", "active": "1", "descendant": "huay", "entity": "xktoguk3", "template": "", "type": "list" },
+  { "route": "华夏古泉_2018_03_01", "active": "1", "descendant": "huay", "entity": "ndnp335t", "template": "", "type": "list" },
+  { "route": "泉园地_2009_năm_nay", "active": "1", "descendant": "chcoin", "entity": "e052pics", "template": "", "type": "list" },
+  { "route": "SARC_2007_năm_nay", "active": "1", "descendant": "sarc", "entity": "kbt27b33", "template": "", "type": "list" },
+  { "route": "Monetarium_1992_năm_nay", "active": "1", "descendant": "mone", "entity": "unbn7yjx", "template": "", "type": "list" },
+  { "route": "オークション_ワールド_2013_năm_nay", "active": "1", "descendant": "aw", "entity": "vj5h0nj3", "template": "", "type": "list" }
+]

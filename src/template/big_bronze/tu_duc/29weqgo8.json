@@ -1,0 +1,25 @@
+{
+  "diameter": { "3j0g9vly": "50.85", "hfdf8rdg": "50.40", "98041qod": "51.00", "1h0sz57g": "", "o30k5dvm": "" },
+  "route_groups": [
+    { "title": "locales.tbaddbab", "routes": ["3j0g9vly", "hfdf8rdg", "98041qod", "1h0sz57g", "o30k5dvm"] }
+  ],
+  "specimen_src" : {
+    "ho7mgv2o": "2898ffb1b6734c29bc8de33c682cc590-1.png",
+    "qb2ill5u": "2898ffb1b6734c29bc8de33c682cc590-2.png",
+    "75xbw39i": "860c54806dbb4fe19ae1a822bc6a6b85-1.png",
+    "w0uauh50": "860c54806dbb4fe19ae1a822bc6a6b85-2.png",
+    "xnzes4di": "d3c64398b0454bddb748640f30840170-1.png",
+    "9zedw3ky": "d3c64398b0454bddb748640f30840170-2.png",
+    "g1bag5rx": "1657443d531044a4bbc8c2e4cc622836-1.png",
+    "gqn2bcn5": "1657443d531044a4bbc8c2e4cc622836-2.png",
+    "9kkw7r7v": "fd152ddd9c2d4691b40006537e669f78-1.png",
+    "8qye9zcn": "fd152ddd9c2d4691b40006537e669f78-2.png"
+  },
+  "specimens": {
+    "3j0g9vly": ["ho7mgv2o", "qb2ill5u"],
+    "hfdf8rdg": ["75xbw39i", "w0uauh50"],
+    "98041qod": ["xnzes4di", "9zedw3ky"],
+    "1h0sz57g": ["g1bag5rx", "gqn2bcn5"],
+    "o30k5dvm": ["9kkw7r7v", "8qye9zcn"]
+  }
+}

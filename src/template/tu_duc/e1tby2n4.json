@@ -1,0 +1,7 @@
+{
+  "route_groups": [
+    { "title": ["locales.types_eight_letter"], "route_sub_groups": [], "routes": ["29weqgo8"], "language": "." },
+    { "title": ["locales.types_four_letter"], "route_sub_groups": [], "routes": [], "language": "." }
+  ],
+  "route_sub_groups": {}
+}

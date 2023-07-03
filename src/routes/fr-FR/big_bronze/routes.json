@@ -1,0 +1,7 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "dr3grppa", "template": "big_bronze/dr3grppa", "type": "list" },
+  { "route": "Minh_Mang_thong_bao", "active": "1", "descendant": "minh_menh", "entity": "1fwjkgi2", "template": "", "type": "list" },
+  { "route": "Thieu_Tri_thong_bao", "active": "1", "descendant": "thieu_tri", "entity": "2yqewlhz", "template": "", "type": "list" },
+  { "route": "Tu_Duc_thong_bao", "active": "1", "descendant": "tu_duc", "entity": "3n3shibu", "template": "", "type": "list" },
+  { "route": "Types", "active": "1", "descendant": "type", "entity": "5t3xzycw", "template": "", "type": "list" }
+]

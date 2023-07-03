@@ -1,0 +1,18 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "umd0xr1h", "template": "umd0xr1h", "type": "home" },
+  { "route": "Enchères", "active": "1", "descendant": "auction", "entity": "ni52ryxb", "template": "auction/ni52ryxb", "type": "reference" },
+  { "route": "Livres", "active": "1", "descendant": "book", "entity": "k13x5l9y", "template": "book/k13x5l9y", "type": "reference" },
+  { "route": "Collections", "active": "1", "descendant": "collection", "entity": "eed1i4rt", "template": "collection/eed1i4rt", "type": "reference" },
+  { "route": "Grande_pièce_en_cuivre", "active": "1", "descendant": "big_bronze", "entity": "dr3grppa", "template": "big_bronze/dr3grppa", "type": "list" },
+  { "route": "Grande_pièce_en_or", "active": "0", "descendant": "big_gold", "entity": "wmnspgi4", "template": "", "type": "list" },
+  { "route": "Grande_pièce_en_argent", "active": "0", "descendant": "big_silver", "entity": "jtmub7zq", "template": "", "type": "list" },
+  { "route": "Grande_pièce_en_zinc", "active": "0", "descendant": "big_zinc", "entity": "qt7h889n", "template": "" , "type": "list"},
+  { "route": "Téléchargements", "active": "1", "descendant": "download", "entity": "58wbv1xd", "template": "", "type": "list" },
+  { "route": "Périodiques", "active": "1", "descendant": "magazine", "entity": "03bzpv5q", "template": "magazine/03bzpv5q", "type": "reference" },
+  { "route": "Musées", "active": "1", "descendant": "museum", "entity": "vhkv5pkw", "template": "museum/vhkv5pkw", "type": "reference" },
+  { "route": "Minh_Mang_thong_bao", "active": "1", "descendant": "minh_menh", "entity": "5nqoi7g9", "template": "minh_menh/5nqoi7g9", "type": "list" },
+  { "route": "Thieu_Tri_thong_bao", "active": "1", "descendant": "thieu_tri", "entity": "m8l7dmpj", "template": "thieu_tri/m8l7dmpj", "type": "list" },
+  { "route": "Tu_Duc_thong_bao", "active": "1", "descendant": "tu_duc", "entity": "trgb85ek", "template": "tu_duc/trgb85ek", "type": "list" },
+  { "route": "Publications_en_ligne", "active": "0", "descendant": "web_post", "entity": "0iyansdp", "template": "" , "type": "list"},
+  { "route": "Sites_internet", "active": "0", "descendant": "web_site", "entity": "zhfqnvgk", "template": "", "type": "list" }
+]

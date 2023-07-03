@@ -1,0 +1,12 @@
+{
+  "route_groups": [
+    { "title": ["locales.types_eight_letter"], "route_sub_groups": [], "routes": [
+      "dcvn5la0", "i4y5ri21", "sr2up8sb", "ouhym074", "wn84tjpk", "lz58w1uu", "o0u1xfrf", "as9s48dn", "rcobqrcp", "1c0i4w1c",
+      "vqbk98xe", "9ko00loh", "4h4somdh", "15cdgib5", "qq3ekhlu", "4xdhvjmm", "xzewr2vc", "s8vxbx44", "0h91a5zr", "smnbzg3h"
+    ], "language": "." },
+    { "title": ["locales.types_four_letter"], "route_sub_groups": [], "routes": [
+      "n77w5sh2", "u8ju8qk5", "8fuwshu1", "xtndo1o5", "lupaeg73", "ol5lg9to", "078cmy4t", "ap7825sv", "pzlupejs", "31m58u2i"
+    ], "language": "." }
+  ],
+  "route_sub_groups": {}
+}

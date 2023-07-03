@@ -1,0 +1,12 @@
+{ "element": "div", "attributes": { "class": "tmh_specimen" }, "elements":  [
+  { "element": "span", "attributes": { "class": "tmh_specimen_info" }, "elements":  [], "innerHtml": "specimen.metadata", "selfClosing": false, "tabs": "5"  },
+  { "element": "br", "attributes": {}, "elements":  [], "innerHtml": "", "selfClosing": true, "tabs": "5"  },
+  { "element": "div", "attributes": { "class": "tmh_image_route" }, "elements":  [
+    { "element": "a", "attributes": { "class": "tmh_a_img", "href": "image.route1", "title": "specimen.title" }, "elements":  [
+      { "element": "img", "attributes": { "alt": "specimen.title", "class": "tmh_img", "src": "image.src1" }, "elements":  [], "innerHtml": "", "selfClosing": true, "tabs": "5"  }
+    ], "innerHtml": "", "selfClosing": false , "tabs": "5" },
+    { "element": "a", "attributes": { "class": "tmh_a_img", "href": "image.route2", "title": "specimen.title" }, "elements":  [
+      { "element": "img", "attributes": { "alt": "specimen.title", "class": "tmh_img", "src": "image.src2" }, "elements":  [], "innerHtml": "", "selfClosing": true, "tabs": "5"  }
+    ], "innerHtml": "", "selfClosing": false, "tabs": "5" }
+  ], "innerHtml": "", "selfClosing": false , "tabs": "5"}
+], "innerHtml": "", "selfClosing": false, "tabs": "5" }

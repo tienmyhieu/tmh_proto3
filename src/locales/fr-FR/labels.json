@@ -1,0 +1,14 @@
+{
+  "author": "Auteur",
+  "city": "Ville",
+  "diameter": "Diamètre",
+  "g": "g",
+  "identifier": "Identifiant",
+  "mm": "mm",
+  "obverse": "Face",
+  "page": "Page",
+  "reverse": "Revers",
+  "title": "Titre",
+  "weight": "Poids",
+  "year": "Année"
+}

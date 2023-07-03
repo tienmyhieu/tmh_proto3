@@ -1,0 +1,9 @@
+{
+  "route_groups": [
+    { "title": ["locales.language_vi_vn"], "route_sub_groups": [], "routes": ["mqdfyahh", "09730pfd", "d0qyjlj1", "wtgmjvez", "jdrh2u71", "9zom8amv"], "language": "vi" },
+    { "title": ["locales.language_de_de"], "route_sub_groups": [], "routes": ["0cwt9zsu"], "language": "de" },
+    { "title": ["locales.language_en_gb"], "route_sub_groups": [], "routes": ["zwy3yoi1", "z9ga4u4o"], "language": "en" },
+    { "title": ["locales.language_fr_fr"], "route_sub_groups": [], "routes": ["37497egm", "51dslkj9", "r57u7huu"], "language": "fr" }
+  ],
+  "route_sub_groups": {}
+}

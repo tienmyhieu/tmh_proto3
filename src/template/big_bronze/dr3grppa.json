@@ -1,0 +1,7 @@
+{
+  "route_groups": [
+    { "title": ["locales.emperor"], "route_sub_groups": [], "routes": ["1fwjkgi2", "2yqewlhz", "3n3shibu"], "language": "." },
+    { "title": ["locales.research"], "route_sub_groups": [], "routes": ["5t3xzycw"], "language": "." }
+  ],
+  "route_sub_groups": {}
+}

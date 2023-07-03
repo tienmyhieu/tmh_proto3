@@ -1,0 +1,9 @@
+{
+  "route_groups": [
+    { "title": ["locales.big_types"], "route_sub_groups": [], "routes": ["dr3grppa", "qt7h889n", "jtmub7zq", "wmnspgi4"], "language": "." },
+    { "title": ["locales.emperor"], "route_sub_groups": [], "routes": ["5nqoi7g9", "m8l7dmpj", "trgb85ek"], "language": "." },
+    { "title": ["locales.references"], "route_sub_groups": [], "routes": ["k13x5l9y", "03bzpv5q", "vhkv5pkw"], "language": "." },
+    { "title": ["locales.sources"], "route_sub_groups": [], "routes": ["ni52ryxb", "eed1i4rt", "0iyansdp", "zhfqnvgk"], "language": "." }
+  ],
+  "route_sub_groups": {}
+}
